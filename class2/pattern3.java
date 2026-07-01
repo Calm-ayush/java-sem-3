@@ -1,6 +1,6 @@
 package class2;
 
-public class class2c {
+public class pattern3 {
     public static void main(){
     int n =5;
     for(int i=1;i<=n;i++){

@@ -1,6 +1,6 @@
 package class2;
 
-public class class2b {
+public class pattern2 {
     public static void main(String[] args){
         int n=6;
         for(int i=0;i<=n;i++){
