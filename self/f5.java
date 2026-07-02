@@ -12,5 +12,6 @@ public class f5{
         else{
             System.out.println("odd");
         }
+        sc.close();
     }
 }

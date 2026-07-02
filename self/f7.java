@@ -12,5 +12,6 @@ public class f7{
         else{
             System.out.println("not eligible");
         }
+        sc.close();
     }
 }

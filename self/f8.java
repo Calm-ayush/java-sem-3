@@ -13,5 +13,6 @@ public class f8{
         else{
             System.out.println("b is greater");
         }
+        sc.close();
     }
 }

@@ -12,5 +12,6 @@ public class f6{
         else{
             System.out.println("not multiple of 5");
         }
+        sc.close();
     }
 }
